@@ -52,7 +52,11 @@ Image classification models have revolutionized computer vision, enabling machin
 
 #OUTPUT(TENSORFLOW)
 
+![Image](https://github.com/user-attachments/assets/20d92862-f692-431e-b78d-c7433a100dbd)
+
 
 #OUTPUT(PYTORCH)
+
+![Image](https://github.com/user-attachments/assets/efad4beb-a24f-45ee-922f-063777e2c5c4)
 
 
